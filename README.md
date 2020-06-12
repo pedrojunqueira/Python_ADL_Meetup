@@ -5,7 +5,7 @@
 
 ### Intro
 
-Thanks all for connecting to this and to Python Adelaide for Leigh and Blake that gave the opportunity to talk.
+Thanks all for connecting to this call and to Python Adelaide for Leigh and Blake that gave the opportunity to talk.
 
 This talk is not a technical talk but more of an inspirational talk and would probably cater more for beginners to intermediary than to experienced programers. It is going to be more of a story telling about my progress with Python and learning about programming in general.
 
@@ -32,7 +32,7 @@ Data Scientist @ [Capgemini](www.capgemini.com)
 #### my contact 
 
 pedrocj@gmail.com |
-[Twitter @velarpavio](https://twitter.com/velaepavio) |
+[Twitter @velaepavio](https://twitter.com/velaepavio) |
 [Github](https://github.com/pedrojunqueira) |
 [LinkedIn](https://www.linkedin.com/in/pedro-junqueira-537184/) 
 
@@ -51,7 +51,7 @@ Timeline major milestones
 
 Around early to mid 80 was my first contact with computers and programing I really put pressure on my parents to buy a computer. My father then enrolled me in programming classes. I was maybe around 9-10 years old. I did a bit of BASIC and the first real program I can remember of was a basic calculator. Yes they taught calculator back in those days as well so nothing really changed :). Probably the coolest and more challenging was a graphical clock with handle and tick and got me hocked in solving this problem. In addition to that I also bought some magazines where I would copy the code and run the programs.
 
-Did this for a few years. Maybe couple of years, then I got distracted with other things like video games. Atari was before that then I played with the computer which was more interesting than coding then came Nintendo and other stuff like not nerd related like BMX and playing outside also I did not see much application and motivation to continue to learn coding and what really put a nail in the coffin was when the graphical interface was introduced with Windows. In Brazil, where I am from, maybe that would have been late 80s early 90s when Windows came and we did not need to use MS-DOS and the command line interface anymore. 
+Did this for a few years. Maybe couple of years, then I got distracted with other things like video games. Atari was before that then I played within the computer which was more interesting than coding then came Nintendo and other stuff that are not nerd related like BMX and playing outside also I did not saw much application and motivation to continue to learn coding and what really put a nail in the coffin was when the graphical interface was introduced with Windows. In Brazil, where I am from, maybe that would have been late 80s early 90s when Windows came and we did not need to use MS-DOS and the command line interface anymore. 
 
 Now everything was point and click, drag and drop.
 
@@ -65,48 +65,61 @@ Mid 90s I finished High School I was in doubt in 3 university courses
 
 I could have chosen either but end up going the practical way. With hindsight I would probably should have chosen CS as you will see when I tell my coding career story.
 
-At univesity there were zero programming in a Business Curriculum and the "computing classes" were Excel spreadsheets mainly for running financial models and also there was a Database class where we learned Access and that was it. 
+At university there were zero programming in a Business Curriculum and the "computing classes" were Excel spreadsheets mainly for running financial models and also there was a Database class where we learned Access and that was it. 
 
-For most of my adult professional life I have been a heavy microsoft excel user and every company I was know as the excel wiz but what I really knew well was pivot tables and vlookup function.
+For most of my adult professional life I have been a heavy microsoft excel user and every company I worked I was known as the excel wiz, but what I really knew well was pivot tables and how to use the vlookup function.
 
-From 2000 to 2017 I did little real programming. I occasionally had to do some excel VBA to automate something boring but most of the cases the build in functionality of excel would do the job. I also had to run some queries to extract data from databases and that was all I had to do in terms of "coding".
+From 2000 to 2017 I did little real programming at my job. I occasionally had to do some excel VBA to automate something boring but most of the cases the build-in functionality of excel would do the job. I also had to run some queries to extract data from databases and that was all I had to do in terms of "coding".
 
 The transition to IT and data analytics happened gradually. As a business analyst most of my analysis were financial analysis and modelling and I dealt with lots of data and eventually excel became limited for some number crunching I used to do. in 2007 excel had only 65,000 rows and I had some economic models with a million rows and the solution was to do it in access and output the data using a pivot table with a ODBC connection to the Access Database. At this time I also used BI systems like Cognos Power Play, TM1 and even learned IBM AS400 query language to extract data from the ERP system. 
 
-In 2008 I got some interest in trading systems and I used a functional language called AFL ambrose formula language. Which had it's own functions and was build on top of C and I had to do some looping and use arrays occasionally but very basic scripting stuff. I was really serious about studding the markets but never really made money with it except I had a blog and sold an ebook about designing trading systems. Did this until I gave up because it was not really make me any money and was wasting my time.
+In 2008 I got some interest in trading systems and I used a functional language called [AFL amibroker formula language](https://www.amibroker.com/guide/a_language.html). Which had it's own functions and was build on top of C and I had to do some looping and use arrays occasionally but very basic scripting stuff. I was really serious about studding the stock markets but never really made money with it except I had a [blog](http://www.velaepavio.com/) and sold an ebook about designing trading systems. Did this until I gave up because it was not really making me any money and was wasting my time, except for the fun I had doing the analysis and the coding.
 
-Fast forward to 2015 I hear the word Data Scientist when a friend from work pointed me to an article about this new profession called Data Science. My friend said this was what I was doing. I kind of identified myself with it but when I read the article it said about statistician and programming language which definitively I was not. 
+Fast forward to 2015 I heard for the first time the word Data Scientist when a friend from work pointed me to an article about this new profession called Data Scientist. My friend said this was what I was doing. I kind of identified myself with it but when I read the article it said about someone knowing well statistics and programming which definitively I was not. 
 
-In this article there was a new professional association [IAPA-Institute of Analytics Professionals of Australia](https://www.iapa.org.au/) and they were offering a free membership for a few months and that included a monthly meet up. I went for around 3 - 4 times to do some networking and try to understand what this was all about. On the first talk finished I went to talk to the person presenting, which were a true data scientist and asked if he could give me a "starting kit" to become a Data Scientist.
+In this article there was a new professional association emerging in Australia called [IAPA-Institute of Analytics Professionals of Australia](https://www.iapa.org.au/) and they were offering a free membership for a few months and that included a monthly meet up. I went to around 3 - 4 times to the meet up do some networking and try to understand what this was all about. 
 
- He recommended a book called [Elements of Statistical learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), and also take the free DataCamp Python and/or R course, open a Kaggle and a also Git Hub account and start coding. As simple as that.
+On the first meeting I went when the talk finished I went to talk to the person presenting. He was [Ross Farrelly](https://www.linkedin.com/in/rossfarrelly/) who was a true data scientist. I asked if he could give me a "starting kit" on how to get started on becoming a Data Scientist.
 
- I got home that night excited and started the python course, opened a Kaggle, Github and Datacamp free account.
- I confess I found the Python course hard to sink in as I was not really committed to it. I had a look in the ESL book and when I saw all those mathematical notation I had a foggy vision and that simply made no sense to me and after trying for about 3 to 4 weeks I simply gave up and thought that Data Science is not for me and then I did nothing about it for about 18 months.
+ He recommended a few things:
+ 
+ * Read a book called [Elements of Statistical learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+ * Take the free DataCamp Python and/or R course
+ * Open a [Kaggle](https://www.kaggle.com/) account 
+ * Open a GitHub account and start coding.
+ 
+As simple as that. 🤓
 
- During that period I was demotivated with my Business Analyst career and tried to become a Financial Planner. Then after failing as a Financial Planner got a contract as a Business Analysis and started to really appreciate what I was good at and my second project was to do a Business Case for a BI business unit which in the end I was hired to be the unit manager then this is when I took off and had the drive to learn Data Analytics and Data Science.
+ I got home that night excited and started the python course, opened a Kaggle and Datacamp free account.
+ I confess I found the Python course hard to sink in as I was not really committed to it. I had a look in the Statisitcs book and when I saw all those mathematical notation I had a foggy vision and that simply made no sense to me and utterly overwhelming and after trying for about 3 to 4 weeks I simply gave up and thought that Data Science was not for me and then I did nothing about it for 18 months.
 
- I got really hungry about learning the data analytics skill set and used the just in time learning and started learning as I needed it.
+ During that period I was demotivated with my Business Analyst career and tried to become a Financial Planner. Then after failing as a Financial Planner I was in the market to go back to business analysis and got a contract as a Business Analysis.
+ 
+ I started to really appreciate what I was good at.
+ 
+ My second project was to do a Business Case for a BI business unit which in the end I was hired to be the unit manager then this is when I took off my Data Analytics and Data Science. career and I never looked back. It was December 2016.
 
- First I learned SQL properly, DAX (Microsoft Data Modelling Language) Azure, Analysis Services, Data Factory and build a team that was responsible to deploy an end-to-end BI analytics platform.
+ I got really hungry about learning the data analytics skill set and used the just in time learning and started learning as I needed it. I bought books, watched YT, blogs and did online course as I needed.
 
- Next in 2018 I learned R and started to do more data science stuff and what really helped me was an Udemy course that cured the trauma of trying to read the ESL book. the course was Machine Learning from A-Z and kudos for Kirill Eremenco from SuperData Science that put this course together. 
+ First I learned SQL properly and also DAX (Microsoft Data Modelling Language) Azure, Analysis Services, Data Factory and build a team that was responsible to deploy an end-to-end BI analytics platform.
+
+ Next in 2018 I learned R and started to do more data science stuff and what really helped me was an Udemy course that cured the trauma of trying to read the Statistics book. The course was Machine Learning from A-Z and kudos for [Kirill Eremenco](https://www.linkedin.com/in/keremenko/?originalSubdomain=au) from [Super Data Science](https://www.superdatascience.com/) that put this course together. 
 
  I was able to finally understand the mathematics and statistics intuition behind it and the learn enough code to put data science into practice.
 
-I then coded my first data science workflow and predictive model which helped the company to convert sales leads.
+I then coded my first data science workflow and built a predictive model which helped the company to convert sales leads.
 
-Until then I did not know much Python. Then in February 2019 I made a commitment that I wanted to become a real data scientist and learn Python property and focus on the language I was going to learn the most. I made the switch from R as I saw Python a more versatile and more general purpose language.
+Until then I did not know much Python. Then in February 2019 I made a commitment that I wanted to become a real data scientist and learn Python property and focus on the language I was going to know the most. I made the switch from R as I saw Python a more versatile and more general purpose language.
 
-Completed the a Python Bootcamp on Udemy and also Python Data Scientist path of Data Quest in about 2.5 months and since then I have been averaging 10-20 hours per week of studding data science and coding tools.
+Completed the a Python Bootcamp on Udemy and also Python Data Scientist path of Data Quest in about 5 months and since then I have been averaging 10-20 hours per week of studying data science and coding tools.
 
-I started to use Python to automate pipelines and do some ETL and ingest data in our BI platform.
+At my job I started to use Python to automate pipelines and do some ETL- Extract Transform and Load and ingest data in our BI platform.
 
-I became confident enough to put on my CV I knew Python and got a Job as a Data Scientist to do a data wrangling and migration job.
+I became confident enough to put on my CV I knew Python and got an opportunity came up and I got a Job as a Data Scientist to do a data wrangling and migration job.
 
 I learned a lot on the job about SQL and Pandas and other technologies and also GIS - Geo Spacial Systems.
 
-Then after that I finally got a job at Capgemini as a data scientist and it is been really great and I am putting knowledge in practice learn a new thing everyday.
+Then after that I finally got a job at Capgemini as a data scientist and it is been really great and I am putting knowledge in practice and learning a new thing everyday.
 
 So after listening to the story of my life here is the 6 points of the message to wrap up.
 
