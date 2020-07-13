@@ -172,6 +172,7 @@ Blogs
 * [Real Python](https://realpython.com/)
 * [PyImage Search (CV)](https://www.pyimagesearch.com/)
 * [Miguel Grinberg - Flask Mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [Kevin Markham - Data School](https://www.dataschool.io/)
 
 YT
 * [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
