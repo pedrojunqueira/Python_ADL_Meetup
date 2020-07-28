@@ -115,9 +115,9 @@ Completed the a Python Bootcamp on Udemy and also Python Data Scientist path of 
 
 At my job I started to use Python to automate pipelines and do some ETL- Extract Transform and Load and ingest data in our BI platform.
 
-I became confident enough to put on my CV I knew Python and got an opportunity came up and I got a Job as a Data Scientist to do a data wrangling and migration job.
+I became confident enough to put on my CV I knew Python. Then I got an opportunity to work as a "Data Scientist" to do a data wrangling and migration job. It is a long story but it all because Portuguese is my first language.
 
-I learned a lot on the job about SQL and Pandas and other technologies and also GIS - Geo Spacial Systems.
+In this position learned a lot on the job about SQL and Pandas and other technologies and also GIS - Geo Spacial Systems.
 
 Then after that I finally got a job at Capgemini as a data scientist and it is been really great and I am putting knowledge in practice and learning a new thing everyday.
 
@@ -173,6 +173,8 @@ Blogs
 * [PyImage Search (CV)](https://www.pyimagesearch.com/)
 * [Miguel Grinberg - Flask Mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Kevin Markham - Data School](https://www.dataschool.io/)
+* [Pybites](https://pybit.es/)
+* [KodeKloud](https://kodekloud.com/)
 
 YT
 * [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
